@@ -1,9 +1,29 @@
 .box {
     background-color: aqua;
 }
-.yellow {
-    background-color: rgb(221, 221, 147);
+.red {
+    background-color: rgb(182, 117, 117);
 }
-.gray {
-    background-color: rgb(109, 74, 74);
+.green {
+    background-color: rgb(159, 255, 159);
+}
+.yellow {
+    background-color:  rgb(194, 194, 112);
+}
+.blue {
+    background-color: rgb(129, 129, 143);
+}
+
+
+.box {
+    height: 300px;
+}
+.box-2 {
+    height: 100px;
+}
+.box-3 {
+    height: 150px;
+}
+.box-4 {
+    height: 150px;
 }
