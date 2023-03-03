@@ -14,16 +14,20 @@
     background-color: rgb(129, 129, 143);
 }
 
-
-.box {
-    height: 300px;
+.box-1 {
+    height: 400px;
+    background-color: rgb(105, 160, 160);
+   
 }
 .box-2 {
-    height: 100px;
+    height: 200px;
+    background-color:  rgb(194, 194, 112);
 }
 .box-3 {
-    height: 150px;
+    height: 200px;
+    background-color: rgb(155, 120, 120);
 }
 .box-4 {
-    height: 150px;
+    height: 200px;
+    background-color: rgb(51, 90, 71);
 }
